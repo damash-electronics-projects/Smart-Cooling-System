@@ -1,4 +1,7 @@
-
+/* This code is written by Eng. Abduallah Damash 2281772
+   at 30/09/2020 for EEE347 course to present Lab Final 
+    "Microcontroller Temperature Controlled System"
+Middle East Technical University, All Right Saved*/
 
 // This is used to enable the LCD
 // Lcd pinout settings
