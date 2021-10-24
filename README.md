@@ -1,7 +1,7 @@
 # MTCS-AVR
 ![image](https://user-images.githubusercontent.com/87785000/126638350-ce308e14-2b6b-4641-a5bc-3112809b1c87.png)
 
-This Project is done by Eng. Abduallah Damash, and assigned to me by Dr. Gürtaç Yemişçioğlu as part of EEE347 (Int. to microprocessor) course.
+This Project is done by Eng. Abduallah Damash, and assigned to me by Dr. Gürtaç Yemişçioğlu as part of EE447 (Int. to microprocessor) course.
 
 If you have any issues or comments on the project, contact me on Linkedin (https://www.linkedin.com/in/engabduallah).
 I also provided all the files that I used in this project so that you can try it by yourself. 
