@@ -1,4 +1,4 @@
-# MTCS-AVR
+# Smart Cooling Controller System on AVR ATMega128
 ![image](https://user-images.githubusercontent.com/87785000/126638350-ce308e14-2b6b-4641-a5bc-3112809b1c87.png)
 Hello
 If you have any issues or comments on the project, contact me on Linkedin (https://www.linkedin.com/in/engabduallah).
@@ -6,7 +6,7 @@ I also provided all the files that I used in this project so that you can try th
 
 Insight about the project: 
 
-Implement smart cooling controller system on AVR AT Mega128 (UNI-DS6 development board), using Atmel Studio to compile the code and Proteus 8 to simulate the system. The system aims to keep the environment cool. 
+Implement smart cooling controller system on AVR ATMega128 (UNI-DS6 development board), using Atmel Studio to compile the code and Proteus 8 to simulate the system. The system aims to keep the environment cool. 
 To achieve that, it simultaneously keeps track of the temperature using a potentiometer sensor. Then, the system takes action accordingly by activating a PC fan using the L293D driver and simultaneously displaying the fan speed and temperature on a 4-bit LCD screen.
 
 The Flow Diagram: 
